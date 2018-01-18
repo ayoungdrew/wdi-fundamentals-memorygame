@@ -53,4 +53,9 @@ var createBoard = function() {
 		document.getElementById('game-board').appendChild(cardElement);
 	}
 }
+
+
 createBoard();
+resetBoard();
+
+
